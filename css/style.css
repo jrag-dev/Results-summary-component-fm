@@ -201,7 +201,7 @@ body {
 @media (min-width: 768px) {
 	.component {
 		background-color: var(--white);
-		box-shadow: 0px 5px 10px rgba(0, 0, 0, .50);
+		box-shadow: 10px 10px 30px hsla(241, 72%, 46%, .2);
 		width: 100%;
 		max-width: 680px;
 		margin: 15rem auto;
